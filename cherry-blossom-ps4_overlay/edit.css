@@ -29,7 +29,8 @@
     height: 55px;
     background: url(face.png);
 }
-
+.ds4 .touchpad.pressed {
+    background: url(touchpad.png) no-repeat center;
 
 .ds4 .stick {
     position: absolute;
