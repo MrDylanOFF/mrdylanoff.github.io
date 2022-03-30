@@ -22,6 +22,14 @@
     opacity: 0;
 }
 
+.ds4 .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 122px;
+    background: url(touchpad.png) no-repeat;
+}
 
 .ds4 .button {
     position: absolute;
